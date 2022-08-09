@@ -28,7 +28,7 @@
   const download = (downloadList) => {
     let headers = { 'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Snapchat/10.77.5.59 (like Safari/604.1)' }
     for (let ir of downloadList)
-      setImmediate(() => GM_download(ir.url, ir.file, headers, false))
+      setImmediate(() => GM_download(ir.url, ir.file, headers))
   }
   download(downloadV)
 })()
