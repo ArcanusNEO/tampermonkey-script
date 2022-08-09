@@ -1,0 +1,30 @@
+{
+  "blacklist": [],
+  "cache": true,
+  "custom": {
+    "baidupcs.com": "netdisk;3.0.0.112",
+    "xiaohongshu.com": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Snapchat/10.77.5.59 (like Safari/604.1)",
+    "*": "Mozilla/5.0 (X11; SunOS sun4u; rv:99.0) Gecko/20100101 Firefox/99.0"
+  },
+  "exactMatch": false,
+  "faqs": true,
+  "last-update": 1653286610969,
+  "log": false,
+  "mode": "custom",
+  "parser": {},
+  "popup-browser": "IE",
+  "popup-os": "Windows",
+  "protected": [
+    "google.com/recaptcha",
+    "gstatic.com/recaptcha",
+    "accounts.google.com",
+    "accounts.youtube.com",
+    "gitlab.com/users/sign_in",
+    "recaptcha.net/recaptcha"
+  ],
+  "siblings": {},
+  "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+  "whitelist": [],
+  "json-guid": "c5f6dccb-c176-4f6f-b25e-d083de202a87",
+  "json-forced": false
+}
