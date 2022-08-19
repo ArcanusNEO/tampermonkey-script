@@ -7,7 +7,6 @@
 // @match        https://pan.baidu.com/disk/main*
 // @icon         https://www.baidu.com/favicon.ico
 // @run-at       document-start
-// @grant        none
 // ==/UserScript==
 
 (function () {
