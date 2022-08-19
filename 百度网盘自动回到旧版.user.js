@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         百度网盘自动回到旧版
 // @namespace    https://github.com/ArcanusNEO/tampermonkey-script
-// @version      0.1。0
+// @version      0.1.0
 // @description  百度网盘自动回到旧版
 // @author       Lucas
 // @match        https://pan.baidu.com/disk/main*
